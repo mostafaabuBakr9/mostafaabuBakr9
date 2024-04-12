@@ -25,33 +25,17 @@
 <a href="https://www.facebook.com/profile.php?id=100010257701251" target="_blank"><img src="https://img.shields.io/badge/-Abdul%20Rahman%20Mahmoud-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://t.me/abdulrahman_mahmoud45" target="_blank"><img src="https://img.shields.io/badge/-Abdul%20Rahman%20Mahmoud-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-000000?style=flat&logo=firebase&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
-![Trello](https://img.shields.io/badge/-Trello-0052CC?style=flat&logo=trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=CPlusPlus)&nbsp;
-![Stripe](https://img.shields.io/badge/-Stripe%20-05122A?style=flat&logo=stripe)&nbsp;
-![Redux](https://img.shields.io/badge/-Redux%20-05122A?style=flat&logo=redux)&nbsp;
-![React Redux](https://img.shields.io/badge/-React%20Redux%20-05122A?style=flat&logo=react&logoColor=764abc)&nbsp;
-![Styled Components](https://img.shields.io/badge/-Styled%20Components%20-05122A?style=flat&logo=styled-components&logoColor=db7093);
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4382CC?style=flat&logo=tailwind-css&logoColor=white)
-![React Redux Toolkit](https://img.shields.io/badge/-React%20Redux%20Toolkit-764ABC?style=flat&logo=redux&logoColor=white&labelColor=764ABC)
-![Material-UI (MUI)](https://img.shields.io/badge/-MUI-0081CB?style=flat&logo=material-ui&logoColor=white)
-![Nivo](https://img.shields.io/badge/-Nivo-000000?style=flat&logo=nivo)
-![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=vercel)
-![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
+![dart](https://img.shields.io/badge/-dart-05122A?style=flat&logo=CPlusPlus)&nbsp;
+
 
 
 
