@@ -21,7 +21,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%AD%D9%85%D9%86-%D9%85%D8%AD%D9%85%D9%88%D8%AF-ba05a11b9/" target="_blank"><img src="https://img.shields.io/badge/-Abdul%20Rahman%20Mahmoud-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/mostafa-abu-bakr-2aa45616a" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20AbuBakr%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/mostafa.abubakr.14" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20AbuBakr%20-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://t.me/abdulrahman_mahmoud45" target="_blank"><img src="https://img.shields.io/badge/-Abdul%20Rahman%20Mahmoud-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
