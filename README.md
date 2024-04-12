@@ -36,6 +36,8 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=CPlusPlus)&nbsp;
 ![dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)&nbsp;
 ![flutter](https://img.shields.io/badge/-flutter-05122A?style=flat&logo=flutter)&nbsp;
+![java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)&nbsp;
+
 
 
 
