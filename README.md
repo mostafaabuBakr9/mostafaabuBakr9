@@ -23,7 +23,7 @@
 
 <a href="https://www.linkedin.com/in/mostafa-abu-bakr-2aa45616a" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20AbuBakr%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.facebook.com/mostafa.abubakr.14" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20AbuBakr%20-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-<a href="https://t.me/abdulrahman_mahmoud45" target="_blank"><img src="https://img.shields.io/badge/-Abdul%20Rahman%20Mahmoud-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/Mostafa_AbuBakr" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20AbuBakr%20-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
