@@ -34,7 +34,7 @@
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=CPlusPlus)&nbsp;
-![dart](https://img.shields.io/badge/-dart-05122A?style=flat&logo=CPlusPlus)&nbsp;
+![dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=CPlusPlus)&nbsp;
 
 
 
